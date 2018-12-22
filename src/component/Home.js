@@ -8,6 +8,12 @@ function Home() {
             (
                 <div className="jumbotron jumbotron-fluid">
                     <div className="container">
+                    <img src={require("assets/image/moneypinjaman.jpg")} 
+                    style={{
+                        display: "block", 
+                        margin: "auto"
+                        }}
+                        />
                         <h1 className="display-4">At Aspire, we help SME overcome the hurdles of finding Loan. </h1>
                         <p className="lead">You can get a loan instantly. Just visit <a href="/newloan">New Loan</a></p>
                     </div>
