@@ -1,0 +1,4 @@
+const NEW_LOAN = 'NEW_LOAN'
+const REPAY_LOAN = 'REPAY_LOAN'
+
+export {NEW_LOAN, REPAY_LOAN}
